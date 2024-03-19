@@ -44,4 +44,29 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# MERN-Stack-Ecommerce-Frontend-Repository
+
+#MERN Stack E-Commerce project - Frontend Repository
+
+Features :
+  - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout
+  - Secure Card Payments / Cash payments
+  - Admin Panel - Add/Edit Orders. Add/Edit Products
+  - Sorting, Filtering, and Pagination queries using Mongoose
+  - Authentication with Passport JS strategies
+  - Order Emails, Reset Password Emails
+  - User Profile and user orders
+
+Technical Details :
+  - React 18 with Tailwind CSS
+  - Redux Toolkit with Async Thunk
+  - React Router v6
+  - JSON-server for front-end testing
+  - MongoDB for Database
+  - Mongoose v7 as ODM
+  - REST API using Express
+  - Authentication using Passport JS
+  - API Authentication using Passport JWT
+  - MongoDB Atlas cloud database
+  - Vercel Server deployment
+  - Email using Nodemailer - using GMail SMTP system
+  - Payments using Stripe - PaymentIntent based custom flow
